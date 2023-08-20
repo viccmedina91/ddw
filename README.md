@@ -1,13 +1,14 @@
 # Diseño y Desarrollo web 2023 UADE
 
-## TP 1
+## TP 2
 
 ### Consigna
 
 #### Nivel Básico
 
-Entrevistá al compañer@ de al lado y creá un documento HTML con una pequeña biografía sobre él o ella (si estás sol@ auto-entrevistate)
+Crear una página para un blog de la temática que más te guste.
+Condición obligatorio: El menú tiene que funcionar.
 
 #### Actividad plus
 
-Si te animás, agregale diseño css a la entrevista del ejercicio anterior. Recordá utilizar la forma adecuada de importarlo.
+Agregá código CSS a tu ejercicio 1 para ir dándole vida a tu blog.
